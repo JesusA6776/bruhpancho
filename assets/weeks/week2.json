@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"happy",
+			"pancho",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"pancho",
+		"bf",
+		"gf"
+	],
+	"storyName": "pancho iz now rat",
+	"weekName": "ew rat",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

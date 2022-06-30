@@ -1,0 +1,30 @@
+{
+	"storyName": "pancho tinks ur ugly",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"pancho",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ugh",
+			"pancho",
+			[
+				195,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "ugh"
+}

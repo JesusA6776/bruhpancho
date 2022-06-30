@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pancho Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pancho DOWN note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				70
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pancho Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pancho Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				71
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "PANCHO UGH",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pancho UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "Pancho/panchotank",
+	"position": [
+		81,
+		299
+	],
+	"healthicon": "pancho",
+	"flip_x": true,
+	"healthbar_colors": [
+		213,
+		197,
+		164
+	],
+	"camera_position": [
+		-128,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

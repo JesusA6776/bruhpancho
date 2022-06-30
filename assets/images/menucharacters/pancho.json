@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_pancho",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1,
+	"idle_anim": "M PANCHO Idle",
+	"confirm_anim": "M Dad Idle"
+}
